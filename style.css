@@ -169,3 +169,61 @@ h1{
     margin-right: 100px;
 
 }
+
+.txt-deco5 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.txt-deco6 {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sec-mail {
+    width: 800px;
+    height: 200px;
+    background-color: rgba(253, 166, 4, 0.253);
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+
+}
+
+.mail-box {
+    text-align: center;
+    outline: none;
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 35px;
+    border-radius: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    background-color: rgb(230, 232, 233);
+}
+.mail-btn {
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.705);
+    border-radius: 5px;
+    cursor: pointer;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+
+footer {
+    text-align: center;
+    padding: 60px;
+    background-color: rgb(11, 11, 12);
+    color: white;
+}
